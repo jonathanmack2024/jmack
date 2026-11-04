@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Microsoft_365__outlook_batch_modify_labels",
+      "mcp__Microsoft_365__outlook_modify_labels",
+      "mcp__Microsoft_365__outlook_email_search",
+      "mcp__Microsoft_365__read_resource",
+      "mcp__Microsoft_365__outlook_create_reply_draft",
+      "mcp__Microsoft_365__outlook_update_draft",
+      "mcp__claude-code-remote__get_trigger"
+    ]
+  }
+}
