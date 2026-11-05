@@ -13,7 +13,9 @@
       "mcp__62db803f-e0cc-48dc-bd7b-4e02282265fb__outlook_email_search",
       "mcp__62db803f-e0cc-48dc-bd7b-4e02282265fb__read_resource",
       "mcp__62db803f-e0cc-48dc-bd7b-4e02282265fb__outlook_create_reply_draft",
-      "mcp__62db803f-e0cc-48dc-bd7b-4e02282265fb__outlook_update_draft"
+      "mcp__62db803f-e0cc-48dc-bd7b-4e02282265fb__outlook_update_draft",
+      "mcp__Microsoft_365__outlook_modify_thread_labels",
+      "mcp__62db803f-e0cc-48dc-bd7b-4e02282265fb__outlook_modify_thread_labels"
     ]
   }
 }
